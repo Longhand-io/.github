@@ -24,7 +24,7 @@ Pre-release. The spec is at version 1, the importer is in progress, the plugin i
 
 ## What is open
 
-Anything that touches your files is MIT and always will be. Nib, compile presets, and relief maps are paid and live outside these repositories; nothing in them can read a field the open modules cannot.
+Anything that touches your files is Apache-2.0 and always will be. Copyright 0xSpectra LLC and the Longhand Authors; the names and marks are trademarks of 0xSpectra LLC. Nib, compile presets, and relief maps are paid and live outside these repositories; nothing in them can read a field the open modules cannot.
 
 Longhand is independent and not affiliated with or endorsed by Literature & Latte, the makers of Scrivener, or by Obsidian.
 
