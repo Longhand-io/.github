@@ -2,7 +2,7 @@
 
 The writing studio for Obsidian. Binder, snapshots with side-by-side compare, inspector, corkboard and threads, research, cast, maps, compile, and Gall, the assistant. Everything is stored as Markdown, frontmatter, files, and git commits under an open vault spec, so nothing needs Oakfall to be read.
 
-Site: https://oakfall.github.io/oakfall-site/
+Site: https://oakfall.app/
 
 ## Repositories
 
